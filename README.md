@@ -1,6 +1,6 @@
 # Ebbinghaus-Illusion
 A jupyter notebook to run a series of experiments involving the Ebbinghaus illusion
-
+<img src="https://github.com/kaaboom767/Ebbinghaus-Illusion/blob/master/Ebbinghaus1_0.03.png" width="480">
 ## How to use
 
 ### Prerequisites
